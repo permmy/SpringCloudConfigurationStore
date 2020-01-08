@@ -5,6 +5,4 @@ spring:
     config:
       server:
         git:
-          uri: https://bitbucket.org/permmy/springcloudconfigurationstore/src
-          username: gathangaperminus@gmail.com
-          passphrase: Pbluz6480
+          uri: https://github.com/permmy/SpringCloudConfigurationStore
